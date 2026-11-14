@@ -3,7 +3,7 @@
   "basketball-2026-11-15": {
    "alerted": [],
    "mins": {
-    "maizetix": 500
+    "maizetix": 520
    }
   },
   "basketball-2026-12-01": {
@@ -19,7 +19,7 @@
     "c24e5a87afc37a9a"
    ],
    "mins": {
-    "maizetix": 999
+    "maizetix": 1454
    }
   },
   "hockey-2026-11-13": {
@@ -27,15 +27,19 @@
    "mins": {}
   },
   "hockey-2026-11-14": {
-   "alerted": [],
+   "alerted": [
+    "974d8876b1a838cb"
+   ],
    "mins": {
-    "maizetix": 7000
+    "maizetix": 6000
    }
   },
   "hockey-2026-11-20": {
-   "alerted": [],
+   "alerted": [
+    "f374e999383964a7"
+   ],
    "mins": {
-    "maizetix": 11399
+    "maizetix": 11200
    }
   },
   "hockey-2026-11-27": {
@@ -55,7 +59,7 @@
   "hockey-2026-12-05": {
    "alerted": [],
    "mins": {
-    "maizetix": 6499
+    "maizetix": 7000
    }
   }
  },
